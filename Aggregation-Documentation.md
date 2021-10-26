@@ -67,5 +67,5 @@ Adam
 
 Adam
 
-Next: [Part 6: Hull Simplification](./Hull-Simplification)\
-Home: [Home](./Home)
+Next: [Part 6: Hull Simplification](./Hull-Simplification.md)\
+Home: [Home](./Home.md)

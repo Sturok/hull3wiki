@@ -27,5 +27,5 @@ The next 3 images are the Hull Output flattened in the X,Y and Z axis respective
 ![image of y flattening](https://drive.google.com/uc?id=1p-xuV6vjljQNeuMz34dMFzHvsa4fJ2TF)
 ![image of z flattening](https://drive.google.com/uc?id=1ZXbeFKBmJeq9MD_95lTwLSWhsrvFs5mu)\
 \
-Next: [Part 2: C#\C++ Interface](./CPlusPlus-Interface)\
-Home: [Home](./Home)
+Next: [Part 2: C#\C++ Interface](./CPlusPlus-Interface.md)\
+Home: [Home](./Home.md)

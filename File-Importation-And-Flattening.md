@@ -110,5 +110,5 @@ ClipperLib::Paths shapes;
 }
 ```
 
-Next: [Part 4: Polygon Union/Clipping and Hull Generation](./Polygon-Union-With-Clipper)\
-Home: [Home](./Home)
+Next: [Part 4: Polygon Union/Clipping and Hull Generation](./Polygon-Union-With-Clipper.md)\
+Home: [Home](./Home.md)
