@@ -46,3 +46,5 @@
 [Monday 2021-10-18](https://docs.google.com/document/d/1cD7NMwrDOj6smxMboweemoHQl5d9pOj278h8FRzHOoU/edit?usp=sharing)
 
 [Thursday 2021-10-21](https://drive.google.com/file/d/1yrLDvUvAZ29g0Mnfcln1rnyerTiaDtc1/view?usp=sharing)
+
+[Thursday 2021-10-28](https://drive.google.com/file/d/1_pcjf88P3-mOD7gGIoCMCXItUxtyogQw/view?usp=sharing)

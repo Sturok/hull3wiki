@@ -29,5 +29,5 @@ std::vector<LineSegment> generateHull(const std::vector<std::string> & filePaths
 ```
 An example of how to use this can be found in `Applications/SolidSimplification/HelperMethods/HullGenerator.cs`
 
-Next: [Part 3: File Importation and flattening](./File-Importation-And-Flattening.md)\
-Home: [Home](./Home.md)
+Next: [Part 3: File Importation and flattening](./File-Importation-And-Flattening)\
+Home: [Home](./Home)

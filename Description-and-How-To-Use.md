@@ -1,5 +1,5 @@
 # Project Description
-This Hull-3 application is designed to output 2D geometry representing the outline of the shadow of a complex 3D shape (the shape’s ‘hull’). The output includes 2D line segments describing the outline and also defining any internal holes present.
+This Hull-3 application is designed to output 2D geometry representing the outline of the shadow of a complex 3D shape (the shape’s ‘hull’). The output includes 2D line segments describing the outline and also defining any internal holes present. 
 
 The input is a 3D object/scene. This may be multiple 3D meshes that fit together like a jigsaw. These meshes are imported, combined, and flattened along one of the primary orthogonal 3D planes i.e. X, Y and Z. If a 3D object were flattened in the X axis then its geometry would be represented in the YZ plane.
 
@@ -27,5 +27,5 @@ The next 3 images are the Hull Output flattened in the X,Y and Z axis respective
 ![image of y flattening](https://drive.google.com/uc?id=1p-xuV6vjljQNeuMz34dMFzHvsa4fJ2TF)
 ![image of z flattening](https://drive.google.com/uc?id=1ZXbeFKBmJeq9MD_95lTwLSWhsrvFs5mu)\
 \
-Next: [Part 2: C#\C++ Interface](./CPlusPlus-Interface.md)\
-Home: [Home](./Home.md)
+Next: [Part 2: C#\C++ Interface](./CPlusPlus-Interface)\
+Home: [Home](./Home)
